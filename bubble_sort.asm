@@ -1,6 +1,9 @@
 #Pratik Gupta
 #bubble sort in assembly
 # Email - pgcool33@gmail.com
+# For a refernce, I've used GeeksforGeeks code of bubblesort in C
+# You can take help from that, and I've changed the variables 'i' to 'c' and 'j' to 'd'.
+# Hope you'll be able to understand the concept and algorithm I've implemented. 
 
 .text
 main:
